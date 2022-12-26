@@ -1,0 +1,26 @@
+/* add your styles here */
+* {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  text-align: center;
+  margin: 30px;
+}
+img {
+  height: 500px;
+  margin: 10px;
+}
+.container {
+  /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center; */
+}
+.imagesContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
